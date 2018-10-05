@@ -51,6 +51,7 @@
 		E9580CE921660D7A0014114C /* Watch_InterfaceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Watch_InterfaceUITests.swift; sourceTree = "<group>"; };
 		E9580CEB21660D7A0014114C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E9580CFB2166180C0014114C /* InterfaceScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = InterfaceScene.sks; sourceTree = "<group>"; };
+		E997A77B2167648A0028E958 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +110,7 @@
 				E9580CD221660D7A0014114C /* LaunchScreen.storyboard */,
 				E9580CD521660D7A0014114C /* Info.plist */,
 				E9580CFB2166180C0014114C /* InterfaceScene.sks */,
+				E997A77B2167648A0028E958 /* README.md */,
 			);
 			path = "Watch Interface";
 			sourceTree = "<group>";
