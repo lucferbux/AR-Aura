@@ -15,6 +15,7 @@
 		E9580CD421660D7A0014114C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9580CD221660D7A0014114C /* LaunchScreen.storyboard */; };
 		E9580CDF21660D7A0014114C /* Watch_InterfaceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9580CDE21660D7A0014114C /* Watch_InterfaceTests.swift */; };
 		E9580CEA21660D7A0014114C /* Watch_InterfaceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9580CE921660D7A0014114C /* Watch_InterfaceUITests.swift */; };
+		E9580CFC2166180C0014114C /* InterfaceScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = E9580CFB2166180C0014114C /* InterfaceScene.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E9580CE521660D7A0014114C /* Watch InterfaceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Watch InterfaceUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9580CE921660D7A0014114C /* Watch_InterfaceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Watch_InterfaceUITests.swift; sourceTree = "<group>"; };
 		E9580CEB21660D7A0014114C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9580CFB2166180C0014114C /* InterfaceScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = InterfaceScene.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				E9580CD021660D7A0014114C /* Assets.xcassets */,
 				E9580CD221660D7A0014114C /* LaunchScreen.storyboard */,
 				E9580CD521660D7A0014114C /* Info.plist */,
+				E9580CFB2166180C0014114C /* InterfaceScene.sks */,
 			);
 			path = "Watch Interface";
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9580CFC2166180C0014114C /* InterfaceScene.sks in Resources */,
 				E9580CCA21660D790014114C /* art.scnassets in Resources */,
 				E9580CD421660D7A0014114C /* LaunchScreen.storyboard in Resources */,
 				E9580CD121660D7A0014114C /* Assets.xcassets in Resources */,
@@ -437,7 +441,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5STH62FY8X;
+				DEVELOPMENT_TEAM = 7Y2Y846R76;
 				INFOPLIST_FILE = "Watch Interface/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -455,7 +459,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5STH62FY8X;
+				DEVELOPMENT_TEAM = 7Y2Y846R76;
 				INFOPLIST_FILE = "Watch Interface/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
